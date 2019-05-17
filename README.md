@@ -1,5 +1,6 @@
 This is https://github.com/mvjlipinski/MedicalSystem/tree/master/MedicalSystem work update.. I updated the smart contracts, the truffle config, the interface and some other changes.... you can reach me through https://github.com/ArumdawoCode or https://twitter.com/ArumdawoCode
 
+Thanks for the work Melissa Janta-Lipinski!
 
 # Medical Records System
 A simple patient medical records system built using blockchain technology, smart contracts, Ethereum, Solidity, Truffle, Ganache-CLI and Metamask.
