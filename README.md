@@ -32,7 +32,7 @@ Install the project dependancies by entering the following in the terminal windo
 Compile the Truffle project by entering the following command in the terminal window:
 **truffle compile**
    
-Open the Ganache-CLI client.  
+Open the Ganache-CLI client **ganache-cli -p 8545**
 
 Copy the mnemonic seed phrase in the Ganache-CLI client window to the clipboard.
 
