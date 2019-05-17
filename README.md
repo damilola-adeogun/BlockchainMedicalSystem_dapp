@@ -74,3 +74,14 @@ To install  Ganache-CLI, type in the following command in the terminal window:  
 To download the Ganache-CLI client, visit the following website and download the client software to your local computer: **https://truffleframework.com/ganache**
 
 To install the MetaMask add-in for Chrome, download the add-in at the following url: **https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en**
+
+
+## Screenshots
+**User Interface**
+https://gyazo.com/cb0d2c1cc7aed61374894ccbb4b58972
+
+**Adding Patients Details through the CLI Interface**
+https://gyazo.com/19d126d296094390bd7731162ff4d7b5
+
+**Getting Patients Details through the CLI Interface**
+https://gyazo.com/36b0ac37d780f27e70ee7b39a3c0a6a1
