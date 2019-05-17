@@ -78,7 +78,7 @@ To install the MetaMask add-in for Chrome, download the add-in at the following 
 
 ## Screenshots
 **User Interface**
-https://gyazo.com/cb0d2c1cc7aed61374894ccbb4b58972
+![Screenshot](Screenshots/1.jpg)
 
 **Adding Patients Details through the CLI Interface**
 https://gyazo.com/19d126d296094390bd7731162ff4d7b5
