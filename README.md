@@ -1,4 +1,4 @@
-This is https://github.com/mvjlipinski/MedicalSystem/tree/master/MedicalSystem work update.. I updated the smart contracts, the truffle config, the interface and some other changes.... you can reach me through https://github.com/ArumdawoCode or https://twitter.com/ArumdawoCode
+This is https://github.com/mvjlipinski/MedicalSystem/tree/master/MedicalSystem work update.. I updated the smart contracts, the truffle config, the interface and some other changes.... you can reach me through https://github.com/codepalmz or https://twitter.com/codepalmz
 
 Thanks for the work Melissa Janta-Lipinski!
 
